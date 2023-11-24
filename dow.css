@@ -1,0 +1,39 @@
+.car{
+    margin-top: 1px;
+    
+}
+
+
+.down {
+    display: flex;
+    flex-wrap: row;
+    gap: 100px;
+    color: white;
+
+  }
+
+  ._ain6 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .container {
+    background-color: black;
+    padding: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .down :hover {
+    background-color: #6185fc;
+  }
+
+  ._advp img {
+    margin-top: 50px;
+    height: auto;
+  }
