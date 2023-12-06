@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "poppins";
+    background-color: #6185fc;
+    color: #000;
+}
+
+#login {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#login .bem {
+    background-color: #080152;
+    color: #ffffff;
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+    margin-left: 376px;
+    margin-top: -90px;
+    position: absolute;
+}
+
+#login .bem2 {
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    width: 755px;
+    padding: 10px;
+    margin-left: 376px;
+    margin-top: -90px;
+}
+
+.entrar input {
+    font-family: "poppins";
+    cursor: pointer;
+
+    height: 50px;
+    width: 450px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.entrar2 input {
+    font-family: "poppins";
+    cursor: pointer;
+    color: #ffffff;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0062ff;
+}
+
+.entrar3 input {
+    font-family: "poppins";
+    cursor: pointer;
+    color: #ffffff;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0247b7;
+}
+
+.entrar4 input {
+    font-family: "poppins";
+    cursor: pointer;
+    color: #ffffff;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    background-color: #002b71;
+}
+
+.entrar5 input {
+    font-family: "poppins";
+    cursor: pointer;
+    color: #ffffff;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    background-color: #002258;
+}
+
+.entrar1 input {
+    cursor: pointer;
+    color: #ffffff;
+    height: 80px;
+    width: 150px;
+
+    border-radius: 10px;
+    border: none;
+    background-color: #a90000;
+}
+
+.entrar6 input {
+    cursor: pointer;
+    color: #ffffff;
+    height: 40px;
+    width: 150px;
+
+    border-radius: 10px;
+    border: none;
+    background-color: #a90000;
+}
+
+.entrar1 .pular input{
+    cursor: pointer;
+    color: #ffffff;
+    height: 80px;
+    width: 150px;
+
+    border-radius: 10px;
+    border: none;
+    background-color: #001cf3;
+}
+
+.caixa {
+    margin-top: 100px;
+}
+
+span {
+
+    color: #000000;
+}
